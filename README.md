@@ -4,6 +4,7 @@ A repository containing information on a hospital database which is designed to 
 
 Please see a more detailed descriptions of the database components below.
 
+Link to GitHub Pages Website: https://stephmbaka.github.io/Group_4/https://stephmbaka.github.io/Group_4/
 # Table of contents
 
 •	File descriptions
