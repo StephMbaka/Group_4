@@ -22,6 +22,8 @@ The repository is made up of the following files:
 
 •	‘QueriesFlowchart.pdf’ is a file which contains the flow chart planning for SQL queries.
 
+•	‘TablesFlowchart.pdf’ is a file which contains the flow chart planning for the tables.
+
 •	‘Relationship planning and pseudocode.docx’ is a file which contains: entity and relationship plans for tables, an entity relationship diagram showing the relationship between tables, pseudocode for MS Access queries.
 
 •	‘queries_for_ms_access_and_mysql.txt’ is a file which contains all the SQL query codes used for mySQL and MS Access
