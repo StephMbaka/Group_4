@@ -18,7 +18,7 @@ Please see a more detailed descriptions of the database components below.
 
 The repository is made up of the following files:
 
-•	‘code_for_tables’ is a file which contains the SQL codes used to create tables for the hospital database.
+•	‘code_for_tables’ is a file which contains the excel code and ChatGPT prompts used to create tables for the hospital database.
 
 •	‘QueriesFlowchart.pdf’ is a file which contains the flow chart planning for SQL queries.
 
